@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Sabeel+Yousaf!;" />
 </h1>
 
-<h3 align="center">A Full Stack Web developer based in Islamabad, Pakistan 🇵🇰</h3>
+<h3 align="center">A Senior Full Stack Engg based in Islamabad, Pakistan 🇵🇰</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Full Stack**
 
- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Graph QL, MongoDB, AWS... or anything [here](https://linkedin.com/in/aliamanatali)**
+ 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Graph QL, MongoDB, AWS... or anything [here](https://www.linkedin.com/in/sabeel-yousaf-26984322a/)**
  
  </div>
  
